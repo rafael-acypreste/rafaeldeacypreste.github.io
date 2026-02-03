@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "rafael de acypreste"
+  title: "rafael acypreste"
   favicon: images/icon.png
   navbar:
     left:
@@ -12,18 +12,17 @@ website:
         menu:
           - href: publications/papers.qmd
             text: Papers
-          - href: publications/books.qmd
-            text: Books and Chapters
-          - href: publications/talks.qmd
-            text: Talks and Posters  
-      - text: Presentations
-        menu:
-          - presentations/avaliando-graficos.qmd
-          - href: presentations/apresentacao-tcc.qmd
-            text: Fare-Free Presentation           
-      - text: R notes
-        menu:
-          - r-notes/r-notes-base.qmd
+          # - href: publications/books.qmd
+          #   text: Books and Chapters
+          # - href: publications/talks.qmd
+          #   text: Talks and Posters  
+      # - text: Presentations
+      #   menu:
+      #     - href: presentations/apresentacao-tcc.qmd
+      #       text: Fare-Free Presentation           
+      # - text: R notes
+      #   menu:
+      #     - r-notes/r-notes-base.qmd
     logo: images/icon.png
     tools:
       - icon: twitter
@@ -36,7 +35,7 @@ website:
             url: https://github.com/rafaeldeacypreste
       - icon: mailbox
         mailto: rafaeldeacyprestemr@gmail.com
-  page-footer: "MIT License 2023, Rafael de Acypreste." 
+  page-footer: "MIT License 2026, Rafael Acypreste." 
   twitter-card: 
     creator: "@rafaelramr"
   open-graph: true

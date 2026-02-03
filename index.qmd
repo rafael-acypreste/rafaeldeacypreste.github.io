@@ -1,5 +1,5 @@
 ---
-title: "Rafael de Acypreste"
+title: "Rafael Acypreste"
 about:
   template: solana
   image: images/home-image-rafael.jpeg
@@ -10,13 +10,15 @@ about:
       href: https://github.com/rafaeldeacypreste
 ---
 
-I am PhD in Economics at the University of Brasília, Brazil. Undergrad student in Statistcs.
+Statistician and PhD in Economics at the University of Brasília, Brazil. Currently working as postdoctoral researcher at [LUT University](https://elut.lut.fi/en).
 
-These are my personal notes on Statistics, Econometrics, Machine Learning and Policy Evaluation. I am also interested in inequality, taxation and disability rights.
+I am interested in AI & Society, Political Economy, and Income Inequality.
 
-Eu sou Doutor em Economia pela Universidade de Brasília. Graduando em Estatística.
+[*Portuguese*]
 
-Estas são minhas notas pessoais sobre Estatística, Econometria, Aprendizado de Máquina e Avaliação de Políticas Públicas. Também me interesso por desigualdade, tributação e direitos das pessoas com deficiência.
+Estatístico e doutor em Economia pela Universidade de Brasília, Brasil. Atualmente, trabalho como investigador de pós-doutorado na [LUT University](https://elut.lut.fi/en).
+
+Tenho interesse em IA e sociedade, economia política e desigualdade de rendimentos.
 
 ## Education
 
@@ -35,5 +37,10 @@ BSc in Law | Mar 2008 - Mar 2013
 
 ## Experience
 
-Research and Statistcs Institute of Federal District (IPEDF, in Portuguese) | Data Scientist | Sept 2023 - present
+Department of Social Sciences - LUT University | Postdoctoral researcher | Jan 2026 - current
+
+Secretariat of Economic Policy - Ministry of Finance (Brazil) | General Coordinator of Quantitative Studies | Mar 2025 - Jan 2026
+
+Research and Statistcs Institute of Federal District (IPEDF, in Portuguese) | Data Scientist | Sept 2023 - Jul 2024
+
 

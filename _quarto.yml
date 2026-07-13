@@ -1,6 +1,13 @@
 project:
   type: website
 
+render:
+  - "*.qmd"
+  - "publications/"
+  
+execute:
+  freeze: auto  # 'auto' re-renders only when source code changes; 'true' never re-renders during project renders unless forced
+
 website:
   title: "rafael acypreste"
   favicon: images/icon.png
@@ -45,6 +52,3 @@ format:
     theme: cyborg
     css: styles.css
     toc: true
-
-
-
